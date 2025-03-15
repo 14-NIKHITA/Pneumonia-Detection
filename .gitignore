@@ -1,0 +1,10 @@
+# Ignore virtual environments
+pneumonia-env/
+
+# Ignore large dataset files (if using Git LFS)
+dataset/
+
+# Ignore system files
+__pycache__/
+*.pyc
+.DS_Store
